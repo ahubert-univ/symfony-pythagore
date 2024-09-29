@@ -8,7 +8,7 @@ Travail à réaliser:
  - Créer un controller PythagoreController 
  - Dans son constructeur charger votre classe PythagoreUtility
  - Créer une action DisplayPythagoreAction avec comme Url de Route /pythagore/view
- - Cette action fera un render de displayPythagore.twig ( fichier fournie ) et affichera la table de pythagore
+ - Cette action fera un render de displayPythagore.html.twig ( fichier fournie ) et affichera la table de pythagore
  - La balise title contiendra la mention "Symfony & table de pythagore"
  - Il y aura aussi une balise h1 avec votre nom et prénom
 
